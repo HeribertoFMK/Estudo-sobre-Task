@@ -1,0 +1,16 @@
+C:\CursoC#\_01_Task\_03_TaskMult\bin\Debug\net5.0\_03_TaskMult.exe
+C:\CursoC#\_01_Task\_03_TaskMult\bin\Debug\net5.0\_03_TaskMult.deps.json
+C:\CursoC#\_01_Task\_03_TaskMult\bin\Debug\net5.0\_03_TaskMult.runtimeconfig.json
+C:\CursoC#\_01_Task\_03_TaskMult\bin\Debug\net5.0\_03_TaskMult.runtimeconfig.dev.json
+C:\CursoC#\_01_Task\_03_TaskMult\bin\Debug\net5.0\_03_TaskMult.dll
+C:\CursoC#\_01_Task\_03_TaskMult\bin\Debug\net5.0\ref\_03_TaskMult.dll
+C:\CursoC#\_01_Task\_03_TaskMult\bin\Debug\net5.0\_03_TaskMult.pdb
+C:\CursoC#\_01_Task\_03_TaskMult\obj\Debug\net5.0\_03_TaskMult.csproj.AssemblyReference.cache
+C:\CursoC#\_01_Task\_03_TaskMult\obj\Debug\net5.0\_03_TaskMult.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\_01_Task\_03_TaskMult\obj\Debug\net5.0\_03_TaskMult.AssemblyInfoInputs.cache
+C:\CursoC#\_01_Task\_03_TaskMult\obj\Debug\net5.0\_03_TaskMult.AssemblyInfo.cs
+C:\CursoC#\_01_Task\_03_TaskMult\obj\Debug\net5.0\_03_TaskMult.csproj.CoreCompileInputs.cache
+C:\CursoC#\_01_Task\_03_TaskMult\obj\Debug\net5.0\_03_TaskMult.dll
+C:\CursoC#\_01_Task\_03_TaskMult\obj\Debug\net5.0\ref\_03_TaskMult.dll
+C:\CursoC#\_01_Task\_03_TaskMult\obj\Debug\net5.0\_03_TaskMult.pdb
+C:\CursoC#\_01_Task\_03_TaskMult\obj\Debug\net5.0\_03_TaskMult.genruntimeconfig.cache

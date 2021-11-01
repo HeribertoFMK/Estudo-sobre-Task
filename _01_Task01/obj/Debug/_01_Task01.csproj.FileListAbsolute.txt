@@ -1,0 +1,10 @@
+C:\CursoC#\_01_Task\_01_Task01\bin\Debug\_01_Task01.exe.config
+C:\CursoC#\_01_Task\_01_Task01\bin\Debug\_01_Task01.exe
+C:\CursoC#\_01_Task\_01_Task01\bin\Debug\_01_Task01.pdb
+C:\CursoC#\_01_Task\_01_Task01\obj\Debug\_01_Task01.csproj.AssemblyReference.cache
+C:\CursoC#\_01_Task\_01_Task01\obj\Debug\_01_Task01.Properties.Resources.resources
+C:\CursoC#\_01_Task\_01_Task01\obj\Debug\_01_Task01.csproj.GenerateResource.cache
+C:\CursoC#\_01_Task\_01_Task01\obj\Debug\_01_Task01.csproj.CoreCompileInputs.cache
+C:\CursoC#\_01_Task\_01_Task01\obj\Debug\_01_Task01.exe
+C:\CursoC#\_01_Task\_01_Task01\obj\Debug\_01_Task01.pdb
+C:\CursoC#\_01_Task\_01_Task01\obj\Debug\_01_Task01.Form1.resources

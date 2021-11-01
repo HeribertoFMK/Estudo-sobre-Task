@@ -1,0 +1,16 @@
+C:\CursoC#\_01_Task\_02_TaskExecute02\bin\Debug\net5.0\_02_TaskExecute02.exe
+C:\CursoC#\_01_Task\_02_TaskExecute02\bin\Debug\net5.0\_02_TaskExecute02.deps.json
+C:\CursoC#\_01_Task\_02_TaskExecute02\bin\Debug\net5.0\_02_TaskExecute02.runtimeconfig.json
+C:\CursoC#\_01_Task\_02_TaskExecute02\bin\Debug\net5.0\_02_TaskExecute02.runtimeconfig.dev.json
+C:\CursoC#\_01_Task\_02_TaskExecute02\bin\Debug\net5.0\_02_TaskExecute02.dll
+C:\CursoC#\_01_Task\_02_TaskExecute02\bin\Debug\net5.0\ref\_02_TaskExecute02.dll
+C:\CursoC#\_01_Task\_02_TaskExecute02\bin\Debug\net5.0\_02_TaskExecute02.pdb
+C:\CursoC#\_01_Task\_02_TaskExecute02\obj\Debug\net5.0\_02_TaskExecute02.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\_01_Task\_02_TaskExecute02\obj\Debug\net5.0\_02_TaskExecute02.AssemblyInfoInputs.cache
+C:\CursoC#\_01_Task\_02_TaskExecute02\obj\Debug\net5.0\_02_TaskExecute02.AssemblyInfo.cs
+C:\CursoC#\_01_Task\_02_TaskExecute02\obj\Debug\net5.0\_02_TaskExecute02.csproj.CoreCompileInputs.cache
+C:\CursoC#\_01_Task\_02_TaskExecute02\obj\Debug\net5.0\_02_TaskExecute02.dll
+C:\CursoC#\_01_Task\_02_TaskExecute02\obj\Debug\net5.0\ref\_02_TaskExecute02.dll
+C:\CursoC#\_01_Task\_02_TaskExecute02\obj\Debug\net5.0\_02_TaskExecute02.pdb
+C:\CursoC#\_01_Task\_02_TaskExecute02\obj\Debug\net5.0\_02_TaskExecute02.genruntimeconfig.cache
+C:\CursoC#\_01_Task\_02_TaskExecute02\obj\Debug\net5.0\_02_TaskExecute02.csproj.AssemblyReference.cache
